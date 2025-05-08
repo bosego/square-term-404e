@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "square-term-404e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ef79d9ea-7cf1-4258-a459-cab9231675e8",
+      "database_name": "cold-salad-dc06-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
